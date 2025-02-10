@@ -1,7 +1,65 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm **Oleg Łyżwiński**, a passionate developer exploring various technologies and building projects to solve real-world problems. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore, contribute, or reach out to me!
+Hi, I'm **Oleg Łyżwiński**, a passionate developer and mechatronics engineer specializing in **computational applications** and **machine learning** within my field. I primarily work in **Python**, creating tools and solutions that bridge the gap between hardware and software. My projects often involve **data processing, analysis, and visualization**, as well as developing algorithms for practical engineering problems.
 
+Outside of coding, I'm deeply interested in **military technology** and **strength sports**, which keep me both mentally and physically engaged. In the tech world, I’m fascinated by **data processing, analysis, and anything related to extracting insights from complex datasets**.
+
+Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore, contribute, or reach out to me!
+
+---
+
+## 🎓 Education
+
+### **Bachelor's Degree**  
+- **Institution**: Warsaw University of Technology, Faculty of Mechatronics  
+- **Specialization**: Photonic Engineering  
+- **Thesis**: *"Polarization phase shifting in digital holographic microscope"*  
+- **Diploma Number**: 118952  
+- **Grade**: Very Good  
+- **Period**: 2019 – 2023  
+
+### **Master's Degree** (in progress)  
+- **Institution**: Warsaw University of Technology, Faculty of Mechatronics  
+- **Period**: 2023 – Present  
+
+---
+
+## 🏆 Scientific Achievements
+
+### **Conference Participation**  
+- **Conference**: *"Printed Electronics"*  
+- **Date**: January 12, 2024  
+- **Location**: CEZAMAT PW  
+- **Presentation Topic**: *"Military Applications of Printed Electronics"*  
+
+### **Scientific Publication**  
+- **Title**: *"Single-shot polarization phase shifting interferometry applied to studying ampicillin diffusion through Pseudomonas aeruginosa biofilm."*  
+- **Published in**: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 2023  
+- **DOI**: [126220O](https://doi.org/10.1117/12.2673869)  
+
+---
+
+## 💼 Professional Experience
+
+### **Fullstack Python Developer**  
+- **Project**: *"Development of Metrological Foundations for Biomedical Measurements Using Selected Methods of Quantitative Phase Imaging"*  
+- **Institution**: Metrologia Polska  
+- **Role**: Fullstack Developer (Python)  
+- **Responsibilities**:  
+  - Development of software for metrological and biomedical applications.  
+  - Implementation of quantitative phase imaging methods.  
+  - Collaboration with interdisciplinary teams to deliver innovative solutions.  
+
+---
+
+## 🛠️ Skills
+- **Programming Languages**: 
+    - Python
+    - MATLAB
+    - R
+
+- **Tools & Platforms**: 
+    - Git
 
 ## 🌱 What I'm Currently Learning
 - C++
@@ -9,21 +67,12 @@ Hi, I'm **Oleg Łyżwiński**, a passionate developer exploring various technolo
 
 ## 📊 GitHub Stats
 
-### Overall GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3xol&show_icons=true&theme=dark)
-
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark)
 
-### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=R3xol&theme=dark)
-
-### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=R3xol&theme=github)
-
 ## 📫 How to Reach Me
 - **Email**: lyzwinskioleg@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/oleg-łyżwiński-49aa5834b)
 
 ## 🤝 Contributing
 If you'd like to contribute to any of my projects, feel free to open an issue or submit a pull request. I appreciate any feedback or suggestions!
