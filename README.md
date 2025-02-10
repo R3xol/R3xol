@@ -27,7 +27,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 
 ## 📫 How to Reach Me
 - **Email**: lyzwinskioleg@gmail.com
-- **LinkedIn**: [Oleg Łyżwiński](www.linkedin.com/in/oleg-łyżwiński-49aa5834b)
+- **LinkedIn**: [Oleg Łyżwiński](https://www.linkedin.com/in/oleg-łyżwiński-49aa5834b)
 
 ---
 
