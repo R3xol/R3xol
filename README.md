@@ -19,6 +19,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 ## 🌱 What I'm Currently Learning
 - C++
 - C#
+- Deep Learning
 
 ## 📊 GitHub Stats
 
@@ -33,7 +34,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 
 ## 🎓 Education
 
-### **Bachelor's Degree**  
+### **Engineering's Degree**  
 - **Institution**: Warsaw University of Technology, Faculty of Mechatronics  
 - **Specialization**: Photonic Engineering  
 - **Thesis**: *"Polarization phase shifting in digital holographic microscope"*  
