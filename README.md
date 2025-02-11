@@ -23,10 +23,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark&hide_progress=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=donut&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark&pie)
 
 ## 📫 How to Reach Me
 - **Email**: lyzwinskioleg@gmail.com
