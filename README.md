@@ -6,7 +6,6 @@ Outside of coding, I'm deeply interested in **military technology** and **streng
 
 Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore, contribute, or reach out to me!
 
-
 ## 🛠️ Skills
 - **Programming Languages**: 
     - Python
@@ -24,7 +23,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark) 
 
 ## 📫 How to Reach Me
 - **Email**: lyzwinskioleg@gmail.com
