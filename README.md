@@ -23,7 +23,8 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark&hide_progress=false)
+![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3xol&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark)
 
 ## 📫 How to Reach Me
 - **Email**: lyzwinskioleg@gmail.com
@@ -42,8 +43,11 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 - **Period**: 2019 – 2023  
 
 ### **Master's Degree** (in progress)  
-- **Institution**: Warsaw University of Technology, Faculty of Mechatronics  
-- **Period**: 2023 – Present  
+- **Institution**: Warsaw University of Technology, Faculty of Mechatronics 
+- **Thesis**: *"Application of three-dimensional U-Net convolutional neural networks for the reconstruction of cellular refractive index distribution based on OCT
+measurements"*
+- **Grade**: Very Good 
+- **Period**: 2023 – 2025 
 
 ---
 
@@ -64,6 +68,13 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 
 ## 💼 Professional Experience
 
+### **Junior Python Developer / Data Scientist** | KSM Vision
+*05.2024 – Present*
+- Designing and implementing image processing algorithms for industrial vision systems.
+- Training and optimizing Deep Learning models.
+- Developing "Cirilla" – an internal library for advanced image analysis.
+- Analyzing algorithm performance and creating technical validation documentation.
+
 ### **Fullstack Python Developer**  
 - **Project**: *"Development of Metrological Foundations for Biomedical Measurements Using Selected Methods of Quantitative Phase Imaging"*  
 - **Institution**: Metrologia Polska  
@@ -72,6 +83,9 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
   - Development of software for metrological and biomedical applications.  
   - Implementation of quantitative phase imaging methods.  
   - Collaboration with interdisciplinary teams to deliver innovative solutions.  
+
+### **Engineering Intern** | Mesko S.A.
+- Gained practical experience in design and production processes within the defense industry.
 
 ---
 
