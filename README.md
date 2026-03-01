@@ -41,7 +41,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 - **Grade**: Very Good  
 - **Period**: 2019 – 2023  
 
-### **Master's Degree** (in progress)  
+### **Master's Degree** 
 - **Institution**: Warsaw University of Technology, Faculty of Mechatronics 
 - **Thesis**: *"Application of three-dimensional U-Net convolutional neural networks for the reconstruction of cellular refractive index distribution based on OCT
 measurements"*
