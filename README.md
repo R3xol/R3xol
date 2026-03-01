@@ -23,8 +23,7 @@ Here, you'll find a collection of my projects, experiments, and contributions. F
 ## 📊 GitHub Stats
 
 ### Most Used Languages
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3xol&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R3xol&layout=compact&theme=dark)
 
 ## 📫 How to Reach Me
 - **Email**: lyzwinskioleg@gmail.com
